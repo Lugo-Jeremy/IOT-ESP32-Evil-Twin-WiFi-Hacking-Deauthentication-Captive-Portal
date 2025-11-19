@@ -140,3 +140,10 @@ ESP32, Evil Twin, WiFi Hacking, Deauthentication, Captive Portal, HTML, CSS, Jav
 ```
 
 ---
+Jeremy Lugo:  NOTES FOR CSN150
+Equipment Used:
+ESP32 Cam, USP-C Cable
+Tools used: Arduino IDE
+Steps I Followed:
+Problems / Solutions: 
+Final Report:
