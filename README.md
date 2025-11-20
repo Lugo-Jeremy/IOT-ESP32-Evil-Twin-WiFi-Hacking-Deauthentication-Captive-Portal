@@ -145,5 +145,14 @@ Equipment Used:
 ESP32 Cam, USP-C Cable
 Tools used: Arduino IDE
 Steps I Followed:
-Problems / Solutions: 
-Final Report:
+1. Fork Repository IOT-ESP32-Evil-Twin-WiFi-Hacking-Deauthentication-Captive-Portal to follow proper steps for the code to be successful
+2. download and extract zip file from https://github.com/aadesh0706/IOT-ESP32-Evil-Twin-WiFi-Hacking-Deauthentication-Captive-Portal
+3. extract the NetworkDeAuth file
+4. open the file in Arduino IDE
+5. set up port applying to your connected ESP32 device
+6. upload code
+7. open network settings in my phone
+8. connect to fake wifi "WiPhi_34732" and put in password "d347h320", it brought me to a portal to evil twin several nearby networks
+9. I chose the Verizon Fios network and selected to Evil Twin
+10. It was successful, I was able to connect to the wifi on my Desktop    
+Final Report: Evil Twin attack was a success, I was able to remotely attack the wifi from my personal phone to the be able to connect to the wifi on my personal desktop. The process was smooth, extracted the arduino code from github repository and uploaded it. It was successful, no issues. 
